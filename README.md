@@ -11,10 +11,6 @@ Software engineer with 3+ years of experience developing backend services, cloud
 - GitHub: [github.com/snehasivakripa](https://github.com/snehasivakripa)  
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasivakripa&layout=compact&theme=radical)
----
-
 ## 📄 Resume
 
 **Professional Summary:**  
