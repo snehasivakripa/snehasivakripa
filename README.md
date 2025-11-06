@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I’m **Sneha Babuji – Software Engineer**
 
-<!--
-**snehasivakripa/snehasivakripa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📝 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software engineer with 3+ years of experience developing backend services, cloud‑based systems, and user‑facing applications. Skilled in **Java, Spring Boot, Angular, and AWS**, with a focus on building and deploying APIs and microservices. Experienced in containerization, version control, and CI/CD practices in team‑based development environments. Focused on working on **reliable, scalable software** that supports real‑world operations.
+
+📫 **Contact Me:**  
+- Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/snehababuji](https://www.linkedin.com/in/snehababuji)  
+- GitHub: [github.com/snehasivakripa](https://github.com/snehasivakripa)  
+- Website: [yourwebsite.com](https://yourwebsite.com)  (optional)
+
+---
+
+## 🛠 Skills
+
+**Programming Languages:** Java, Python, TypeScript, JavaScript  
+**Frameworks & Tools:** Spring Boot, Node.js, Angular 2+, REST APIs, JUnit, Mockito, Swagger  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, CloudWatch), Docker, Kubernetes, Istio, Jenkins, CI/CD, Git  
+**Databases:** PostgreSQL, MongoDB, DynamoDB  
+**Security & Testing:** Vault, Keycloak, OAuth2, Linux, Agile/Scrum  
+**Machine Learning:** TensorFlow, Keras, Scikit‑learn, PyTorch  
+**Other:** Shell Scripting, Bitbucket, GitHub, Mocha/Chai  
+
+---
+
+## 📄 Resume
+
+**Professional Summary:**  
+Software engineer with experience in backend services, cloud‑based systems, and APIs. Focused on building scalable software with a strong foundation in DevOps and CI/CD.
+
+**Education:**  
+- **M.S. in Computer Science** – University of Massachusetts, Boston, MA | GPA 3.88/4 (May 2024)  
+- **B.S. in Computer Science** – CUSAT, Kerala, India | GPA 8.16/10 (April 2018)  
+
+**Professional Experience:**  
+- **Senior Systems Engineer | Infosys** (Mar 2021 – Jan 2022)  
+- **Associate Software Developer | UST Global** (Jul 2018 – Mar 2021)  
+
+**Certificates & Achievements:**  
+- Stack Overflow Gold Badge contributor (700+ reputation, 77K+ users helped)  
+- AWS Educate Machine Learning Foundations Badge  
+- Insta Award, Infosys for delivering scalable solutions under tight deadlines  
+- Oracle Explorer Badges Advanced Java & MySQL  
+- HackerRank Silver Badge Data Structures & Algorithms  
+
+
+
+---
+
