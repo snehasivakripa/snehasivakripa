@@ -7,23 +7,12 @@
 Software engineer with 3+ years of experience developing backend services, cloud‑based systems, and user‑facing applications. Skilled in **Java, Spring Boot, Angular, and AWS**, with a focus on building and deploying APIs and microservices. Experienced in containerization, version control, and CI/CD practices in team‑based development environments. Focused on working on **reliable, scalable software** that supports real‑world operations.
 
 📫 **Contact Me:**  
-- Email: your.email@example.com  
 - LinkedIn: [linkedin.com/in/snehababuji](https://www.linkedin.com/in/snehababuji)  
 - GitHub: [github.com/snehasivakripa](https://github.com/snehasivakripa)  
-- Website: [yourwebsite.com](https://yourwebsite.com)  (optional)
-
 ---
 
-## 🛠 Skills
-
-**Programming Languages:** Java, Python, TypeScript, JavaScript  
-**Frameworks & Tools:** Spring Boot, Node.js, Angular 2+, REST APIs, JUnit, Mockito, Swagger  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda, CloudWatch), Docker, Kubernetes, Istio, Jenkins, CI/CD, Git  
-**Databases:** PostgreSQL, MongoDB, DynamoDB  
-**Security & Testing:** Vault, Keycloak, OAuth2, Linux, Agile/Scrum  
-**Machine Learning:** TensorFlow, Keras, Scikit‑learn, PyTorch  
-**Other:** Shell Scripting, Bitbucket, GitHub, Mocha/Chai  
-
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasivakripa&layout=compact&theme=radical)
 ---
 
 ## 📄 Resume
@@ -45,8 +34,5 @@ Software engineer with experience in backend services, cloud‑based systems, an
 - Insta Award, Infosys for delivering scalable solutions under tight deadlines  
 - Oracle Explorer Badges Advanced Java & MySQL  
 - HackerRank Silver Badge Data Structures & Algorithms  
-
-
-
 ---
 
